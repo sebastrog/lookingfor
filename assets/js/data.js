@@ -40,7 +40,7 @@
       "phone": "493-170-9623 x156",
       "website": "kale.biz",
       "description": "lorem ipsum dolor sit amet",
-      "avatar": "https://i.pravatar.cc/300?img=6",
+      "avatar": "https://i.pravatar.cc/300?img=20",
       "skills": ["html", "js", "php"]
     },
     {
@@ -51,7 +51,7 @@
       "phone": "(254)954-1289",
       "website": "demarco.info",
       "description": "lorem ipsum dolor sit amet",
-      "avatar": "https://i.pravatar.cc/300?img=7",
+      "avatar": "https://i.pravatar.cc/300?img=21",
       "skills": ["html", "css"]
     },
     {
@@ -73,7 +73,7 @@
       "phone": "210.067.6132",
       "website": "elvis.io",
       "description": "lorem ipsum dolor sit amet",
-      "avatar": "https://i.pravatar.cc/300?img=9",
+      "avatar": "https://i.pravatar.cc/300?img=17",
       "skills": ["next.js", "react", "bootstrap 4"]
     },
     {
@@ -84,7 +84,7 @@
       "phone": "586.493.6943 x140",
       "website": "jacynthe.com",
       "description": "lorem ipsum dolor sit amet",
-      "avatar": "https://i.pravatar.cc/300?img=10",
+      "avatar": "https://i.pravatar.cc/300?img=69",
       "skills": ["html", "angular", "react"]
     },
     {
@@ -95,7 +95,7 @@
       "phone": "(775)976-6794 x41206",
       "website": "conrad.com",
       "description": "lorem ipsum dolor sit amet",
-      "avatar": "https://i.pravatar.cc/300?img=11",
+      "avatar": "https://i.pravatar.cc/300?img=30",
       "skills": ["html", "css", "javscript"]
     },
     {
@@ -106,7 +106,7 @@
       "phone": "024-648-3804",
       "website": "ambrose.net",
       "description": "lorem ipsum dolor sit amet",
-      "avatar": "https://i.pravatar.cc/300?img=12",
+      "avatar": "https://i.pravatar.cc/300?img=40",
       "skills": ["css", "wordpress", "php"]
     }
   ]

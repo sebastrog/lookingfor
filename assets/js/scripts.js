@@ -11,8 +11,6 @@ function showRandomCopy() {
     return elRandomCopy.innerHTML+= generateRandomCopy;
 }
 
-
-
 const templateString = ( el ) => {
     let templateString = `
         <div class="col-lg-4 mb-4">
@@ -69,7 +67,7 @@ const lookingForUser = async () => {
 
     const clearResults = result.filter(element => { return element !== undefined; })
 
-    if( clearResults.length < 1 ) return elTestData.innerHTML+= `<h1>we couldn't what you looking for, try again!</h1>` 
+    if( clearResults.length < 1 ) return elTestData.innerHTML+= `<div class="col-12"><h1 class="warning">we couldn't find what you looking for, try again!</h1></div>` 
     
     return printUsers(clearResults)
     
