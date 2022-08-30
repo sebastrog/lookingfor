@@ -1,4 +1,5 @@
-const url = "../assets/js/data.js";
+/* const url = "../assets/js/data.js"; */
+const url = "https://sebastrog.github.io/lookingfor/";
 const elTestData = document.querySelector('#data');
 const elRandomCopy = document.querySelector('#randomCopy');
 const search = document.querySelector( "#searchUser" );
